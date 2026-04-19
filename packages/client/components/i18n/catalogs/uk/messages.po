@@ -339,6 +339,10 @@ msgstr ""
 msgid "Already friends with this user."
 msgstr "Ви вже дружите з цим користувачем."
 
+#: components/app/interface/settings/user/voice/ScreenShareOptions.tsx
+msgid "Always Ask for Screen Share Quality"
+msgstr ""
+
 #: components/app/interface/settings/user/Language.tsx
 msgid "American (MM/DD/YYYY)"
 msgstr ""
@@ -497,6 +501,7 @@ msgstr ""
 
 #: components/modal/modals/SignOutSessions.tsx
 #: components/modal/modals/ServerIdentity.tsx
+#: components/modal/modals/ScreenShareSettings.tsx
 #: components/modal/modals/ResetBotToken.tsx
 #: components/modal/modals/ReportContent.tsx
 #: components/modal/modals/RenameSession.tsx
@@ -1087,6 +1092,10 @@ msgstr ""
 msgid "Do Not Disturb"
 msgstr "Не турбувати"
 
+#: components/modal/modals/ScreenShareSettings.tsx
+msgid "Don't ask me again"
+msgstr ""
+
 #: components/modal/modals/LinkWarning.tsx
 msgid "Don't ask me again for "
 msgstr ""
@@ -1359,6 +1368,10 @@ msgstr ""
 
 #: components/modal/modals/ReportContent.tsx
 msgid "Give us some detail"
+msgstr ""
+
+#: components/modal/modals/ScreenShareSettings.tsx
+msgid "Go"
 msgstr ""
 
 #: components/auth/src/flows/FlowVerify.tsx
@@ -2358,6 +2371,11 @@ msgstr "Нотатки"
 msgid "Scams or fraud"
 msgstr ""
 
+#: components/modal/modals/ScreenShareSettings.tsx
+#: components/app/interface/settings/user/voice/ScreenShareOptions.tsx
+msgid "Screen Share Settings"
+msgstr ""
+
 #: components/modal/modals/AddBot.tsx
 msgid "Search for groups..."
 msgstr ""
@@ -2385,6 +2403,10 @@ msgstr ""
 
 #: components/app/interface/settings/user/voice/VoiceProcessingOptions.tsx
 msgid "Select noise suppression"
+msgstr ""
+
+#: components/app/interface/settings/user/voice/ScreenShareOptions.tsx
+msgid "Select screen share quality"
 msgstr ""
 
 #: components/app/interface/settings/user/Language.tsx
@@ -2996,6 +3018,10 @@ msgstr "Перегляд старих повідомлень"
 #: components/app/interface/settings/UserSettings.tsx
 #: components/app/interface/settings/channel/permissions/ChannelPermissionsEditor.tsx
 msgid "Voice"
+msgstr ""
+
+#: components/app/interface/settings/UserSettings.tsx
+msgid "Voice & Video"
 msgstr ""
 
 #: components/modal/modals/CreateChannel.tsx
