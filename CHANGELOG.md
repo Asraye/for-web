@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.6.0](https://github.com/stoatchat/for-web/compare/stoat-for-web-v0.5.0...stoat-for-web-v0.6.0) (2026-04-19)
+
+
+### Features
+
+* Screen share settings UI modal ([#1111](https://github.com/stoatchat/for-web/issues/1111)) ([84677f8](https://github.com/stoatchat/for-web/commit/84677f8f8f2b3c50fd7b012c0c9172b78f10ee7a))
+
+
+### Bug Fixes
+
+* apply shared scrollbar styles to chat input ([0b94704](https://github.com/stoatchat/for-web/commit/0b94704c061dfacb8e0d1f7558ef0c920c52d8f6))
+* chat input custom scrollbar ([#1060](https://github.com/stoatchat/for-web/issues/1060)) ([0b94704](https://github.com/stoatchat/for-web/commit/0b94704c061dfacb8e0d1f7558ef0c920c52d8f6))
+
 ## [0.5.0](https://github.com/stoatchat/for-web/compare/stoat-for-web-v0.4.0...stoat-for-web-v0.5.0) (2026-04-12)
 
 
